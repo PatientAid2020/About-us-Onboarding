@@ -4,7 +4,7 @@
 
 
 # PatientAid
-Welcome! PatientAid is a free, privancy-first solution to empwer patients and healthcare providers to combat COVID-19 together.
+Welcome! PatientAid is a free, privancy-guaranteed solution to empwer patients and healthcare providers to combat COVID-19 together.
 
 As part of a larger initiative from NECSI with the explicit goal of stopping the spread of nCov-2019 / COVID19, it will rely on collaboration among a group of people who volunteer to help from various disciplines to make this happen.
 
@@ -14,23 +14,23 @@ As part of a larger initiative from NECSI with the explicit goal of stopping the
 Things here are about PatientAid project and how you can get involved!
 
 ## Project Mission
-Our project aims to support COVID19 potential patients in great need of medical help, via self-service to make requests to healthcare providers, and to receive the most suitable guidance and action derived from their circumstances in an automated way. 
+Our project aims to support COVID-19 potential patients in great need of medical help, via self-service to make requests to healthcare providers, and to receive the most suitable guidance and action derived from their circumstances in an automated way. 
 
 ## How Does PatientAid Work?
 
-PatientAid is a simple and realtime connecting solution that can be used anywhere. Here’s how it works:
+PatientAid is a simple and connecting in realtime solution that can be used anywhere. Here’s how it works:
 
-1. The patient goes to a website to log a request for medical help. This request includes basic contact info, symptoms, conditions as minimal and required data via pre-designed multiple choices. 
+1. The patient goes to a website to log a request for medical help. The patient provides asnwers to questions related to symptoms, conditions, minimal demographic data via pre-designed multiple choices. The patient also needs to provide basic ontact info for healthcare providers to make appointment with. 
 
-2. Once this request is submitted, the calculation service kicks in to analyse the patient’s request within a second, and categorize it to be acted upon, e.g. self-isolating, a followup call, to be tested, to be picked up by ambulance immediately etc.  
+2. Once this request is submitted, entirely built upon corresponding healthcare provider's decision factors and critera, the calculation service analyzes the patient’s request within a second and categorize it to be acted upon, e.g. self-isolating, a followup call, to be tested, to be picked up by ambulance immediately etc. 
 
 <p align="center">
     <img src="./imgs/sample_zerobase_qr.jpg" width="250" height="250">
 </p>  
  
 
-3. A worker from a healthcare distribution centre then reviews the request and confirms the action to be taken for the patient. 
-The action in contextual details as well as adequate self-sufficient guidance and content are then sent to the patient by a text or email. 
+3. A worker from a healthcare distribution centre then based on the result makes and onfirms the appointment for the patient. 
+The appointment in contextual details as well as adequate self-sufficient guidance and content are then sent to the patient by a text or email. 
 
 To see more about our system, read our [nontechnical whitepaper](zerobase-bluf.pdf).
 
@@ -53,18 +53,20 @@ When healthcare providers are overwhelemd by demand which has unfortunately emer
   * Patients no longer need to make appointment with ambulance or consultation service providers
   * Hospitalisation preparation takes place in parallel with patient’s pickup
 
-Many great projects are providing the patient self-checker service. We consider the people working on these efforts our siblings-in-arms and applaud their effort. PatientAid was designed to fill several significant holes in the present 'overflow' solution landscape.
+Many great projects and organisitions are providing the patient self-checker service. We consider their work our siblings-in-arms and applaud their effort. PatientAid was designed to fill a number of gaps in the present 'overflow' solution landscape.
 
 ### We are the only solution that brings the ultimate action to patients
+
 Unlike other self-checker solutions in the marketplace, PatientAid aims to help the overflow problem by integrating actions of healthcare providers into patients' medical requests to complete the cycle.
 
-### Other solutions only stop at binary answers to a fixed set of questions 
+### Most solutions evalutate upon answers to a fixed set of binary questions 
 
-Our solution caters for finer-grained assessment criteria from healthcare providers and drives real-time actions. Those criteria are entirely configurable and tailored for each healthcare providers circumstances and needs. 
+Whereas our solution caters for finer-grained assessment criteria from healthcare providers and drives real-time actions. As we position ourselves as information service providers, we do not qualify ourselves to make crucial and clinical decisions on behalf of anyone. Medical data required and corresponding criteria are entirely defined and configured under each healthcare provider's circumstances and needs. Our role is to facilitate the possibility of automation. 
 
 
 ### Our service embrances and supports international collaboration 
-Embedded into the intial design our solution aims to enable collaboration of a multi-healthcare provider network, allowing all network participants to act off a single version of the truth and focus resources where they are likely to save the most lives.
+
+Embedded into the initial design our solution aims to enable collaboration of a multi-healthcare provider network, allowing all network participants to act off a single version of the truth and focus resources where they are likely to save the most lives. Varying from circumstances healthcare provider networks can range from local communities to international cooperation. 
 
 ## How can I help?
 Ready to jump in?
