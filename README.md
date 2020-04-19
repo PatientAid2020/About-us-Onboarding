@@ -100,11 +100,11 @@ Adding/Changing features?
 
 
 #### Any questions? Get stuck?
-Email us at xx@xx.com or ask in [#PatientAid-volunteers](https://necsi-edu.slack.com/archives/CUWTZ4J7L)
+Email us at patientaid2020@gmail.com or ask in [#PatientAid-volunteers](https://necsi-edu.slack.com/archives/CUWTZ4J7L)
 
 Remember to join us at 9PM BST for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
 
 #### Relevant Links
 * [PatientAid GitHub Organization](https://github.com/zerobase-io)
 * [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
-* [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at xx
+* [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at patientaid2020@gmail.com
