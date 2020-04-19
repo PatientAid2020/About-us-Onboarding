@@ -1,4 +1,4 @@
-Looking to get in touch, or to know who's in charge of what? We've got you covered.
+Looking to get in touch, or to know who's in charge of what? We've got you covered. 
 
 **Joanne Ma, Founder** ((https://github.com/joannema2020), joanne.ma2020@gmail.com)
 
