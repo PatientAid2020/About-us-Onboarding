@@ -104,4 +104,4 @@ Remember to join us at 9PM BST for our daily worldwide All Hands call! Meet new 
 #### Relevant Links
 * [PatientAid GitHub Organization](https://github.com/zerobase-io)
 * [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
-* [Contact Us](https://airtable.com/shrnYjRudkIBlXzr9) or email us at patientaid2020@gmail.com
+* [Contact Us] Email us at patientaid2020@gmail.com
