@@ -102,6 +102,6 @@ Email us at patientaid2020@gmail.com or ask in [#PatientAid-volunteers](https://
 Remember to join us at 9PM BST for our daily worldwide All Hands call! Meet new friends, hear about our progress, become part of the team. Details on Slack.
 
 #### Relevant Links
-* [PatientAid GitHub Organization](https://github.com/zerobase-io)
-* [Volunteer Registration Form](https://tinyurl.com/zerobase-volunteer)
+* [PatientAid GitHub Organization](https://github.com/patientaid)
+* [Volunteer Registration Form]()
 * [Contact Us] Email us at patientaid2020@gmail.com
