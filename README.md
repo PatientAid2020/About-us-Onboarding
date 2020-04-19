@@ -24,15 +24,10 @@ PatientAid is a simple and connecting in realtime solution that can be used anyw
 
 2. Once this request is submitted, entirely built upon corresponding healthcare provider's decision factors and critera, the calculation service analyzes the patient’s request within a second and categorize it to be acted upon, e.g. self-isolating, a followup call, to be tested, to be picked up by ambulance immediately etc. 
 
-<p align="center">
-    <img src="./imgs/sample_zerobase_qr.jpg" width="250" height="250">
-</p>  
- 
-
 3. A worker from a healthcare distribution centre then based on the result makes and onfirms the appointment for the patient. 
 The appointment in contextual details as well as adequate self-sufficient guidance and content are then sent to the patient by a text or email. 
 
-To see more about our system, read our [nontechnical whitepaper](zerobase-bluf.pdf).
+To see more about our system, read our [nontechnical whitepaper].
 
 ## Why PatientAid?
 When healthcare providers are overwhelemd by demand which has unfortunately emerged in several countries, they gain below benefit immediately by using our service. Therefore WHO has recently recommended the ‘patient triage tool’ in its guideline to all countries, which is exactly our service has been built for. 
