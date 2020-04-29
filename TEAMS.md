@@ -1,7 +1,7 @@
 Looking to get in touch, or to know who's in charge of what? We've got you covered. 
 
 **Joanne Ma, Founder** (joanne.ma2020@gmail.com, https://github.com/joannema2020)
-** , Co-Founder** (, )
+**, Co-Founder** (,)
 
 ## Team Leads
 
