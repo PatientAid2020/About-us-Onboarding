@@ -84,17 +84,15 @@ Ready to jump in?
 [PatientAid Developer Onboarding Documentation](https://github.com/spachev/patient-sass-fe)
 [Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
 
-#### Product Development Process
-Adding/Changing features?
+#### Software Product Development Lifecycle(SDLC)
 
-1. Add a story to our product backlog here 
-2. Story->Backlog
-3. Backlog-> Prioritisation and grooming by PM
-4. Prioritsation-> Design with UX / UI / Product Designer 
-5. Design - > Dev
-6. Dev -> QA
-
-
+1. Add a topic story to our product backlog
+2. Backlog team review and prioritisation by PMs, UX Designers and Dev leads.  
+3. Backlog grooming and planning into release sprints 
+4. Story -> Design by UX Designers and Archtects
+5. Design -> Develpment 
+6. Development -> Testing 
+7. Testing -> Release by DevOps 
 
 #### Any questions? Get stuck?
 Email us at patientaid2020@gmail.com or ask in [#PatientAid-volunteers](https://necsi-edu.slack.com/archives/CUWTZ4J7L)
