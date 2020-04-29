@@ -81,8 +81,9 @@ Ready to jump in?
 * [#PatientAid-product](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - Our main product channel
 
 #### Check out our GitHub!
-[PatientAid Developer Onboarding Documentation](https://github.com/spachev/patient-sass-fe)
-[Here's our quickstart guide for technical and nontechnical contributors. Join us!](./CONTRIBUTING.md)
+Functional White Paper 
+Arechtectual Design Overview 
+Tech Stacks and Development Foundation 
 
 #### Software Product Development Lifecycle(SDLC)
 
