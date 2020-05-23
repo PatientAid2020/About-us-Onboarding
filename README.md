@@ -74,9 +74,8 @@ Ready to jump in?
 
 #### Join a team! These are some channels to get you started:
 * [#PatientAid](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - Our main channel
-* [#PatientAid-backend](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - For backend developers
-* [#PatientAid-devOps](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - For arechitcture and deploying in the real world
-* [#PatientAid-frontend](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - For frontend developers, UX, and 
+* [#PatientAid-development](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - Development, UX main channel
+* [#PatientAid-outreach](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - For marketing, outreach
 * [#PatientAid-consultancy](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - For Medical and adoption onboarding 
 * [#PatientAid-product](https://necsi-edu.slack.com/archives/CUWTZ4J7L) - Our main product channel
 
