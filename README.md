@@ -1,6 +1,6 @@
 # About-us-Onboarding
 
-![PatientAid Logo](./PatientAid logo.png"PatientAid Logo")
+[PatientAid Logo](PatientAid logo.png)
 
 
 # PatientAid
