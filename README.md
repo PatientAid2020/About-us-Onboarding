@@ -1,9 +1,6 @@
 # About-us-Onboarding
 
-![PatientAid Logo](./PatientAidLogo_100x100.png "PatientAid Logo")
-
-
-# PatientAid
+# ![PatientAid Logo](./PatientAidLogo_100x100.png "PatientAid Logo")PatientAid  
 Welcome! PatientAid is a free, privancy-guaranteed solution to empwer patients and healthcare providers to combat COVID-19 together.
 
 As part of a larger initiative from NECSI with the explicit goal of stopping the spread of nCov-2019 / COVID19, it will rely on collaboration among a group of people who volunteer to help from various disciplines to make this happen.
