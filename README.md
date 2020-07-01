@@ -17,9 +17,9 @@ Our project aims to support COVID-19 potential patients in great need of medical
 
 PatientAid is a simple and connecting in realtime solution that can be used anywhere. Here’s how it works:
 
-1. The patient goes to a website to log a request for medical help. The patient provides asnwers to questions related to symptoms, conditions, minimal demographic data via pre-designed multiple choices. The patient also needs to provide basic ontact info for healthcare providers to make appointment with. 
+1. The patient goes to a website to log a request for medical help. The patient provides answers to questions related to symptoms, conditions, minimal demographic data via pre-designed multiple choices. The patient also needs to provide basic contact info for healthcare providers to make appointment with. 
 
-2. Once this request is submitted, entirely built upon corresponding healthcare provider's decision factors and critera, the calculation service analyzes the patient’s request within a second and categorize it to be acted upon, e.g. self-isolating, a followup call, to be tested, to be picked up by ambulance immediately etc. 
+2. Once this request is submitted, entirely built upon corresponding healthcare provider's decision factors and critera, the calculation service analyzes the patient’s request within a second and categorizes it to be acted upon, e.g. self-isolating, a followup call, testing, picked up by ambulance immediately etc. 
 
 3. A worker from a healthcare distribution centre then based on the result makes and onfirms the appointment for the patient. 
 The appointment in contextual details as well as adequate self-sufficient guidance and content are then sent to the patient by a text or email. 
@@ -27,22 +27,22 @@ The appointment in contextual details as well as adequate self-sufficient guidan
 To see more about our system, read our [nontechnical whitepaper].
 
 ## Why PatientAid?
-When healthcare providers are overwhelemd by demand which has unfortunately emerged in several countries, they gain below benefit immediately by using our service. Therefore WHO has recently recommended the ‘patient triage tool’ in its guideline to all countries, which is exactly our service has been built for. 
+When healthcare providers are overwhelmed by demand which has unfortunately emerged in several countries, they gain immediate benefit by using our service. This service has been built based upon the WHO guideline for a 'patient triage tool'.
 * Healthcare resource efficiency
-  * Limited ICU beds and health resources are utilised to likely save most lives
-  * Frontline health workers are free from morally exhausting challenges to triage patients but save patients with dedicated focus and energy
-  * Integrated patient self-evaluation result and resulting healthcare reduces operational waste of ambulance service and subsequent consultation. 
+  * Effective utilization of limited ICU beds and health resources to save the most lives
+  * Frontline health workers maintain dedicated focus and energy by avoiding morally exhausting challenges to triage patients
+  * Reduced operational waste of ambulance services and the subsequent consulation through integrated patient self-evaluation and care
 * Improve service levels
   * Patients at varying stages receive the most suitable healthcare tailored for individual circumstances.
-  * Collaboration among healthcare providers on the network to share resources to likely help most people 
+  * Healthcare providers on the network collaborate to share the resources to help the most people
   * Offer proactive and essential healthcare to patients when their conditions worsen.  
-  * Maximize opportunities to save most lives and accelerate recovery
+  * Maximize opportunities to save the most lives and accelerate recovery
 * Costs savings
   * Reduce handling costs through enablement of flow-through distribution and cross-provider sharing
   * Reduce investment in healthcare call center labour and equipment through integrated information flow and process automation 
-  * Enable efficient execution of receiving processes at distribution centers by ensuring accurate and timely availability of updated ETAs
+  * Efficient execution of receiving processes at distribution centers by ensuring accurate and timely availability of updated ETAs
 * Reduce cycle times
-  * Patients no longer need to make appointment with ambulance or consultation service providers
+  * Patients no longer need to make appointments with ambulance or consultation service providers
   * Hospitalisation preparation takes place in parallel with patient’s pickup
 
 Many great projects and organisitions are providing the patient self-checker service. We consider their work our siblings-in-arms and applaud their effort. PatientAid was designed to fill a number of gaps in the present 'overflow' solution landscape.
@@ -53,12 +53,12 @@ Unlike other self-checker solutions in the marketplace, PatientAid aims to help 
 
 ### Most solutions evalutate upon answers to a fixed set of binary questions 
 
-Whereas our solution caters for finer-grained assessment criteria from healthcare providers and drives real-time actions. As we position ourselves as information service providers, we do not qualify ourselves to make crucial and clinical decisions on behalf of anyone. Medical data required and corresponding criteria are entirely defined and configured under each healthcare provider's circumstances and needs. Our role is to facilitate the possibility of automation. 
+Our solution caters to finer-grained assessment criteria from healthcare providers, and drives real-time actions. As we position ourselves as information service providers, we do not qualify ourselves to make crucial and clinical decisions on behalf of anyone. Medical data required and corresponding criteria are entirely defined and configured under each healthcare provider's circumstances and needs. Our role is to facilitate the possibility of automation. 
 
 
 ### Our service embrances and supports international collaboration 
 
-Embedded into the initial design our solution aims to enable collaboration of a multi-healthcare provider network, allowing all network participants to act off a single version of the truth and focus resources where they are likely to save the most lives. Varying from circumstances healthcare provider networks can range from local communities to international cooperation. 
+Embedded into the initial design, our solution aims to enable collaboration of a multi-healthcare provider network, allowing all network participants to act off a single version of the truth and focus resources where they are likely to save the most lives. Varying from circumstances healthcare provider networks can range from local communities to international cooperation. 
 
 ## How can I help?
 Ready to jump in?
